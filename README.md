@@ -44,4 +44,4 @@ This project sets up a development environment using Docker for a simple React a
 - `src/App.js`: Main React component displaying the "Codin 1" text.
 - `README.md`: This file with setup instructions.
 
-# webd3012_coding_assignment
+
